@@ -1,8 +1,0 @@
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\bin\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.deps.json
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\bin\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.dll
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\bin\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.pdb
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\obj\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.csprojAssemblyReference.cache
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\obj\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.AssemblyInfoInputs.cache
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\obj\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.AssemblyInfo.cs
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\obj\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.dll
-C:\Users\mmelnikov\Documents\Repository\tvoriteli\Gate.GraphQL.Core.Attributes\obj\Debug\netcoreapp2.2\Gate.GraphQL.Core.Attributes.pdb
