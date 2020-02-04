@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Copyright>Gaticle</Copyright>
+    <Authors>Maxim Melnikov</Authors>
+    <Company>Gaticle</Company>
+    <RepositoryUrl>https://github.com/gaticle/gate-graphql-core-attributes</RepositoryUrl>
+    <PackageTags>dotnet, graphql</PackageTags>
+    <PackageProjectUrl>https://github.com/gaticle/gate-graphql-core-attributes</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
